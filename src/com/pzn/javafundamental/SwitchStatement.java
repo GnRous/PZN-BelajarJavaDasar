@@ -30,6 +30,7 @@ public class SwitchStatement {
             }
         }
 
+
         //Switch dengan Yield (Java version = 14 keatas)
         // memudahkan ketika memanfaatkan variabel tambahan, exmp: String ucapan
         String absen = "B";
